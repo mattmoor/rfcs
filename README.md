@@ -79,6 +79,19 @@ When the changes described in an RFC have been implemented and merged into the r
 the corresponding RFC will be moved from accepted/ to implemented/. If you'd like to implement an accepted RFC,
 please make a PR in the appropriate repo and mention the RFC in the PR. Feel free to do this even for work-in-progress code!
 
+## Working Groups
+Working group meetings are a great place to more directly communicate with other members of the community. These meetings occur once every two weeks.
+
+- Tuesdays at 2pm EST/EDT (18:00 UTC)
+
+#### Meeting
+
+The meeting may be joined via the following:
+
+Zoom: (to be added once approved )
+
+
+
 ## Unresolved Questions
 [unresolved-questions]: #unresolved-questions
 
